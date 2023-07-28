@@ -1,3 +1,6 @@
 [submodule "references/sedumi"]
 	path = references/sedumi
 	url = https://github.com/djdesant/sedumi.git
+[submodule "references/sdpt3"]
+	path = references/sdpt3
+	url = https://github.com/djdesant/sdpt3.git
